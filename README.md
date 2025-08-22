@@ -23,8 +23,8 @@ This is a simple but effective math game designed to help improve mental arithme
 
 <h1>Getting Started</h1>
 
-1. Navigate to the Releases section of this repository.
+1. Navigate to the [`Releases`](https://github.com/hectortrevino3/Flash-Mental-Arithmetic/releases) section of this repository.
 
-2. Download the latest .zip file.
+2. Download the latest `.zip` file.
 
-3. Unzip the folder and run FlashMentalArithmetic.exe.
+3. Unzip the folder and run `FlashMentalArithmetic.exe`.
